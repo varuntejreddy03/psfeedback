@@ -1,0 +1,314 @@
+[
+    {
+        "S.No":1,
+        "Group Name":"G602",
+        "Project Title":"GE-GNN: Gated Edge-augmented \nGraph Neural Network for \nFraud Detection",
+        "Roll Number":"23P81A0543, 23P81A0546, 23P81A0534, 23P81A0557, 23P81A0514",
+        "Student Name":"MUNNANURU SAI YASASVI, NANNAPURAJU VARSHA, MADDIKUNTLA PAVAN KUMAR, SURKANTI KAVYA REDDY, CHIGURAMBOTTLA SAI PRADEEP GUPTHA",
+        "Mentor(s)":"Dr Shilpa Gupta"
+    },
+    {
+        "S.No":2,
+        "Group Name":"G603",
+        "Project Title":"MRD?RAG: Enhancing Medical Diagnosis with Multi?Round RAG",
+        "Roll Number":"23P81A6912, 23P81A6906, 23P81A6910, 23P81A6933, 23P81A6952",
+        "Student Name":"CH SATHVIK KUMAR, ANUMULA SAMARTH, BEJAWADA MANISH, KOTHAPELLI SAI DEEPAK, SURYA KIRAN",
+        "Mentor(s)":"Dr A Madhavi"
+    },
+    {
+        "S.No":3,
+        "Group Name":"G604",
+        "Project Title":"ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification",
+        "Roll Number":"23P81A6707, 23P81A6738, 23P81A6717, 23P81A6757, 23P81A6736",
+        "Student Name":"ALUVALA ABHISHEK GOUD, NAMANI SAI CHARAN, DANDANAYAK HARSHAVARDHAN, VELUPALLY ROHAN SAI, MANDIGA KARTHIKEYA",
+        "Mentor(s)":"Keerthi"
+    },
+    {
+        "S.No":4,
+        "Group Name":"G605",
+        "Project Title":"MedICaT: A Dataset of Medical Images, Captions, and Textual References",
+        "Roll Number":"23P81A0516, 23P81A0517, 23P81A0549, 23P81A0563, 23P81A0502",
+        "Student Name":"DASARI CHARITHA REDDY, GAJULA UDAY KIRAN, PUDARI SRIMAN NARAYANA, VENNELA SAIREDDY, AKHILA NACHAM",
+        "Mentor(s)":"Dr A Madhavi"
+    },
+    {
+        "S.No":5,
+        "Group Name":"G606",
+        "Project Title":"AgroGPT: Efficient Agricultural Vision?Language Model with Expert Tuning",
+        "Roll Number":"23P81A0510, 23P81A0530, 23P81A0536, 23P81A0524, 23P81A0511",
+        "Student Name":"BUCCHIREDDY NANDINI, KELAM PARTHIV KUMAR, MANCHOJU PRAVALLIKA, JILKAPALLY RAKSHITHA, BURUGADDA SRINIJA",
+        "Mentor(s)":"Vijay Nag"
+    },
+    {
+        "S.No":6,
+        "Group Name":"G607",
+        "Project Title":"MMed-RAG: Versatile Multimodal RAG\nSystem for Medical Vision Language \nModels",
+        "Roll Number":"23P81A0558, 23P81A0540, 23P81A0547, 23P81A0527, 23P81A6903",
+        "Student Name":"THATI HARSHITHA, MEKALA UDAY REDDY, PANDALA MEDHA GOUD, KADARI JAYANTH KUMAR REDDY, ADITI JOPAT",
+        "Mentor(s)":"Dr Shilpa Gupta"
+    },
+    {
+        "S.No":7,
+        "Group Name":"G608",
+        "Project Title":"MedRAG: Knowledge?Graph Elicited RAG for Healthcare Copilot",
+        "Roll Number":"23P81A0525, 23P81A6224, 23P81A6228, 23P81A6234, 23P81A6241, 23P81A6630",
+        "Student Name":"JOGU PRASANNA, KATTA BHARATH KUMAR REDDY, MAMIDI ACHSAH PEARLY, NALLAVELLI VARUNTEJ REDDY, PERALA SAI SREEKAR, INAVOLU DIVIJA",
+        "Mentor(s)":"Dr A Madhavi"
+    },
+    {
+        "S.No":8,
+        "Group Name":"G609",
+        "Project Title":"AutoDefense: Multi?Agent LLM Defense against Jailbreak Attacks",
+        "Roll Number":"23P81A6611, 23P81A0598, 23P81A6701, 23P81A6718, 23P81A6753",
+        "Student Name":"BHUPATHI DINESH CHANDRA, KATKURI PARDIV REDDY, A BHARGHAV RAM, DEVALLA LAKSHMI SAI SRAVYA, TERALA SAMIKSHA",
+        "Mentor(s)":"Vijay Nag"
+    },
+    {
+        "S.No":9,
+        "Group Name":"G610",
+        "Project Title":"Early Disease Detection Using AI:\nA Deep Learning Approach to\nPredicting Cancer and Neurological \nDisorders",
+        "Roll Number":"23P81A0579, 23P81A6656, 23P81A6921, 23P81A0550, 23P81A6905",
+        "Student Name":"B ABHINAV VARMA, SAYINI ANSHU, DUNABOINA VENKAT MADHU MOHAN, RALLABANDI LAKSHMI NIKHILA, ANUMULA RUSHIKA",
+        "Mentor(s)":"Navatha"
+    },
+    {
+        "S.No":10,
+        "Group Name":"G611",
+        "Project Title":"Graph Neural Networks for Heart Failure Prediction \non an EHR-Based Patient Similarity Graph",
+        "Roll Number":"23P81A6615, 23P81A6926, 23P81A6945, 23P81A6953, 23P81A6913",
+        "Student Name":"BUDIDHA NIKHITHA GOUD, KANDADA SHIVANANDAN, PRANAV KARNE, THOTA ABHAY DEEKSHIT, CHATHIRI SATHVIK SAGAR",
+        "Mentor(s)":"Navatha"
+    },
+    {
+        "S.No":11,
+        "Group Name":"G612",
+        "Project Title":"mAIstro: an open-source multi-agentic system for automated endto-end development of radiomics and deep learning models for\nmedical imaging",
+        "Roll Number":"23P81A0503, 23P81A0526, 23P81A0597, 23P81A6204, 23P81A6250",
+        "Student Name":"AMULA PRANITH GOUD, JONNADA VARSHA REDDY, KATEPAKA MOHAN VAMSHI, AVVARI VENKATA SARASWATHI SREE  SHARANYA, SHEKAPURAM DEEKSHA",
+        "Mentor(s)":"Dr A Madhavi"
+    },
+    {
+        "S.No":12,
+        "Group Name":"G613",
+        "Project Title":"Open FinLLM Leaderboard: Towards Financial AI Readiness",
+        "Roll Number":"23P81A0513, 23P81A0529, 23P81A0509, 24P85A0505, 23P81A0512",
+        "Student Name":"CHERALA ARAVIND, KATTA HARSHITH, BOJJA NIKHILESH, NUNE NOMESH BABU, CHENGELLI NITHYA SANTHOSHINI",
+        "Mentor(s)":"Keerthi"
+    },
+    {
+        "S.No":13,
+        "Group Name":"G614",
+        "Project Title":"ChatDoctor: A Medical Chat Model Fine-Tuned on \na Large Language Model Meta-AI (LLaMA) Using \nMedical Domain Knowledge",
+        "Roll Number":"23P81A0594, 23P81A6760, 23P81A6919, 23P81A6633, 23P81A6643",
+        "Student Name":"J SRIKAR, YELLISETTY SAI AKSHITA, DUBBAKA SHAMITHA REDDY, JONNALAGADDA SRI NITHYA REDDY, MEKALA ABINAYA",
+        "Mentor(s)":"Navatha"
+    },
+    {
+        "S.No":14,
+        "Group Name":"G615",
+        "Project Title":"Framework GNN-AID: Graph Neural\nNetwork Analysis, Interpretation and \nDefense",
+        "Roll Number":"23P81A6239, 23P81A6256, 23P81A6632, 23P81A0533, 23P81A6213",
+        "Student Name":"PANDITH SURYA TEJA, TIRUMALA ANJALI, JALA MEGHANA, MAALE GOUNDLA CHINMAYEE, CHINTALAPUDI JITHENDER SAI PRASAD",
+        "Mentor(s)":"Dr Shilpa Gupta"
+    },
+    {
+        "S.No":15,
+        "Group Name":"G616",
+        "Project Title":"ChatGPT-HealthPrompt. Harnessing the\nPower of XAI in Prompt-Based\nHealthcare Decision Support using ChatGPT",
+        "Roll Number":"23P81A0506, 23P81A6745, 23P81A6743, 23P81A6746, 23P81A0553, 23P81A0599",
+        "Student Name":"BALSULA HARIKA, SAMALA CHATHURYA, PERUGU JAHNAVI, SIRISANAGANDLA SOWMYA, SAMBU AKHILA, K HEMASHASHEENDRA",
+        "Mentor(s)":"Navatha"
+    },
+    {
+        "S.No":16,
+        "Group Name":"G617",
+        "Project Title":"GeoVision Labeler: Zero-Shot Geospatial Classification with Vision and Language Models",
+        "Roll Number":"23P81A0595, 23P81A05A4, 23P81A6216, 23P81A6220, 23P81A6229",
+        "Student Name":"KALAPAKA SRI MAHALAXMI, KURUPATI CHARITHA, GANDURI SANTOSHINI, GUTTULA HARIKA, MOLUGURI NIKITHA",
+        "Mentor(s)":"Dr A Madhavi"
+    },
+    {
+        "S.No":17,
+        "Group Name":"G618",
+        "Project Title":"LegalSeg: Unlocking the Structure of Indian Legal Judgments Through\nRhetorical Role Classification",
+        "Roll Number":"23P81A6242, 23P81A6244, 24P85A6204, 23P81A6210, 23P81A6201",
+        "Student Name":"POLURI SAI YASHWANTH REDDY, POTHARAJU CAROL CHRYSOLITE JAKES, BINGI VAMSHI KRISHNA, CHAVALA PRATEEK, AJJARAPU PRANEETH SAI SRITHIKANTA",
+        "Mentor(s)":"Keerthi"
+    },
+    {
+        "S.No":18,
+        "Group Name":"G619",
+        "Project Title":"Genotypic?Topological Graph Neural\nNetwork for Yield Prediction",
+        "Roll Number":"23P81A0562, 23P81A6901, 23P81A6927, 23P81A0523, 23P81A0519",
+        "Student Name":"VEMULA ABHIGNA, ABBANI MANASA, KAREDLA JAHNAVI REDDY, JAKINALAPALLY BABITHA, GRANDHI SHRIYA",
+        "Mentor(s)":"Dr Shilpa Gupta"
+    },
+    {
+        "S.No":19,
+        "Group Name":"G620",
+        "Project Title":"LeafGAN: An Effective Data Augmentation Method for Practical Plant Disease Diagnosis",
+        "Roll Number":"23P81A0580, 23P81A05B8, 23P81A05C1, 23P81A05C7, 23P81A05A2",
+        "Student Name":"BUDRAPALLY ABHINAV CHAITANYA, NANDYALA ABHINAV CHANDRA REDDY, PASUPULETI GOWTHAM, VADTHYA AMULYA, KOTTUR HRUSHIKESH REDDY",
+        "Mentor(s)":"Keerthi"
+    },
+    {
+        "S.No":20,
+        "Group Name":"G621",
+        "Project Title":"Med-HALT: Medical Domain Hallucination \nTest for Large Language Models",
+        "Roll Number":"23P81A0555, 23P81A6203, 23P81A6664, 23P81A0554, 23P81A05C0",
+        "Student Name":"SHIVANI BATTULA, ALURU SAHITHI, YELUKA SAI CHANDANA, SAMUDRALA SRIPADA, PARIMI SANTHI SRI",
+        "Mentor(s)":"Navatha"
+    },
+    {
+        "S.No":21,
+        "Group Name":"G622",
+        "Project Title":"Underwater SONAR Image\nClassification and Analysis using\nLIME-based Explainable \nArtificial Intelligence",
+        "Roll Number":"23P81A6727, 23P81A6747, 23P81A0556, 23P81A6737, 23P81A6713",
+        "Student Name":"GUNDEMONI SNEHITH, SOLLETI AKSHITHA, SRINADHAM NEERAJA REDDY, MANURI VENKATA GURU SRI CHARAN, BIKUMALLA SRIWATSAVA",
+        "Mentor(s)":"Navatha"
+    },
+    {
+        "S.No":22,
+        "Group Name":"G623",
+        "Project Title":"Amortizing Personalization in\nVirtual Brain Twins",
+        "Roll Number":"23P81A6949, 23P81A6925, 23P81A6904, 23P81A6946, 23P81A6954",
+        "Student Name":"SANAGAPALLI VENKATA KASHYAP, K KRITHIKA SHIVAPRIYA, ALE ESHWAR, PRATHIK REDDY METTU, THUMMANAPALLY AVIGNA",
+        "Mentor(s)":"Navatha"
+    },
+    {
+        "S.No":23,
+        "Group Name":"G624",
+        "Project Title":"The Role of AI in Predicting\nCancer Recurrence and \nPatient Survival Rates",
+        "Roll Number":"23P81A6703, 23P81A6709, 23P81A6716, 23P81A6748, 23P81A6758, 24P85A6702",
+        "Student Name":"ADLA NAINIKA, BALAMONI SATHVIKA, CHITTOORI LAKSHMI PRAGJNA, SRI SAMVATHIKA MUNIMADUGU, VOJJALA SHASHVITHA, KATLA SATHWIKA",
+        "Mentor(s)":"Navatha"
+    },
+    {
+        "S.No":24,
+        "Group Name":"G625",
+        "Project Title":"LLM Self Defense: By Self Examination,\nLLMs Know They Are Being Tricked",
+        "Roll Number":"23P81A6930, 23P81A6955, 23P81A6951, 24P85A0502, 23P81A0565",
+        "Student Name":"KONDALA KARTHIK SAGAR, VEMULAPALLY RUSHITHA, SHEELAM KRISHIKA PATEL, KAMMARI VARSHITHA, YELCHALA LAHARI",
+        "Mentor(s)":"Dr Shilpa Gupta"
+    },
+    {
+        "S.No":25,
+        "Group Name":"G626",
+        "Project Title":"AgriCLIP: Adapting CLIP for Agriculture \nand Livestock via Domain-Specialized\nCross-Model Alignment",
+        "Roll Number":"23P81A0567, 23P81A05B7, 23P81A05B1, 23P81A6661, 23P81A05B4",
+        "Student Name":"ANDE SAI VARDHAN, MYSA HARISH KUMAR, MEELA SHABARI GIRISH, VAISHNAVI ETTABOINA, Mohammad Hafeez Khan",
+        "Mentor(s)":"Dr Shilpa Gupta"
+    },
+    {
+        "S.No":26,
+        "Group Name":"G627",
+        "Project Title":"Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning",
+        "Roll Number":"23P81A0541, 23P81A05A1, 23P81A05C2, 23P81A05C3, 23P81A05C6",
+        "Student Name":"METTU RUTHVIK, KOMMANABOINA BHARGAVI, PEDDI PARTHEEV REDDY, RACHAMALLA AKSHARA, THOTAPALLY LIKHITHA",
+        "Mentor(s)":"Keerthi"
+    },
+    {
+        "S.No":27,
+        "Group Name":"G628",
+        "Project Title":"Generative AI for Cyber Threat-Hunting in\n6G-enabled IoT Networks",
+        "Roll Number":"23P81A05B3, 23P81A05B0, 24P85A0510, 23P81A0578, 24P85A0508",
+        "Student Name":"MEKALA SNEHITH, MATURI HIMAVARDHANUDU, YELATI AKHIL SAI, BONASI GOVARDHAN, THALLAPELLY ABHIRAM",
+        "Mentor(s)":"Keerthi"
+    },
+    {
+        "S.No":28,
+        "Group Name":"G629",
+        "Project Title":"ARAGOG: Advanced RAG Output Grading",
+        "Roll Number":"23P81A0588, 23P81A0559, 23P81A6631, 23P81A6650, 23P81A6659",
+        "Student Name":"G SRILAKSHMI YASASVI, THATINATI KOWSHIK, JAGATI NIKHIL RAM KUMAR, POLISETTY CYRIL, TUNIKI VIVEK",
+        "Mentor(s)":"Vijay Nag"
+    },
+    {
+        "S.No":29,
+        "Group Name":"G630",
+        "Project Title":"FinRobot: An Open?Source AI Agent Platform for Financial Applications using LLMs",
+        "Roll Number":"23P81A6206, 23P81A6221, 23P81A6254, 23P81A6262, 23P81A6260",
+        "Student Name":"BANKA ANISH REDDY, KALAKONDA MANOGNYA, T.NIKITH, YENAGANTI KOUSHIK, VITTA SAI BHARADHWAJ",
+        "Mentor(s)":"Vijay Nag"
+    },
+    {
+        "S.No":30,
+        "Group Name":"G631",
+        "Project Title":"TechniqueRAG: Retrieval Augmented Generation for Adversarial Technique Annotation in Cyber Threat Intelligence Text",
+        "Roll Number":"23P81A0566, 23P81A0581, 23P81A0582, 23P81A05A5, 23P81A0576",
+        "Student Name":"ALLAM GNANA NAGA POOJITHA, BUSSALA LAKSHMI SANDHYA, CHALLA SUDHIKSHA, LINGALA GREESHMA POURNAMI, BEEMARA RADHIKA",
+        "Mentor(s)":"Vijay Nag"
+    },
+    {
+        "S.No":31,
+        "Group Name":"G632",
+        "Project Title":"A Multimodal Benchmark Dataset and Model for\nCrop Disease Diagnosis",
+        "Roll Number":"23P81A6655, 24P85A0506, 23P81A6617, 23P81A6622, 23P81A6647",
+        "Student Name":"SALOJU RAGHU, PAKA SAI CHANDANA, CHEEDALLA SIRI CHANDANA, DUBBA MANASWINI REDDY, NINAAD KUMAR K N",
+        "Mentor(s)":"Keerthi"
+    },
+    {
+        "S.No":32,
+        "Group Name":"G633",
+        "Project Title":"FinGAT: Financial Graph Attention Networks for Recommending Top?K Profitable Stocks",
+        "Roll Number":"23P81A0532, 23P81A6619, 23P81A6618, 23P81A6642, 23P81A0521",
+        "Student Name":"LAGGONI SHARANYA, CHOLLETI SUCHEER, CHITLA PRANEETH REDDY, MAYANK RATHI, GUJJA KRITHIKA REDDY",
+        "Mentor(s)":"Vijay Nag"
+    },
+    {
+        "S.No":33,
+        "Group Name":"G634",
+        "Project Title":"Graph Neural Networks in Supply Chain Analytics and Optimization: Concepts, Perspectives, Dataset and Benchmarks",
+        "Roll Number":"23P81A0575, 23P81A0596, 23P81A05A7, 23P81A6636, 23P81A6645",
+        "Student Name":"BAVANDLAPALLY PRAGATHI, KANUGURAO SRINIVAS SATHWIK, M SNIGDHA, KATTA PREM, NAMPALLY TARUN",
+        "Mentor(s)":"Vijay Nag"
+    },
+    {
+        "S.No":34,
+        "Group Name":"G635",
+        "Project Title":"SMOOTHLLM: Defending Large Language\nModels Against Jailbreaking Attacks",
+        "Roll Number":"23P81A0501, 23P81A0522, 23P81A0548, 24P85A0501, 23P81A6943",
+        "Student Name":"AADARSH TIWARI, HYDEKARI PAVAN KUMAR, POGULA SUJAY REDDY, DASARI VINAY, PEDDOJU ROHITH",
+        "Mentor(s)":"Dr Shilpa Gupta"
+    },
+    {
+        "S.No":35,
+        "Group Name":"G636",
+        "Project Title":"Agri-LLaVA: Knowledge-Infused Large Multimodal Assistant on Agricultural Pests and Diseases",
+        "Roll Number":"23P81A6602, 23P81A6620, 23P81A6613, 23P81A6627, 23P81A6624",
+        "Student Name":"ADEPU KAASHYAP, CHOPPARI SAI TEJA, BODAPATLA ROHITH KUMAR, GEEDIPALLI VASU RAO, DUMPATI VENKATTEJA",
+        "Mentor(s)":"Keerthi"
+    },
+    {
+        "S.No":36,
+        "Group Name":"G637",
+        "Project Title":"MobilePlantViT: A Mobile-friendly Hybrid ViT for Generalized Plant Disease Image Classification",
+        "Roll Number":"23P81A6209, 23P81A6202, 23P81A6651, 23P81A6601, 23P81A6637",
+        "Student Name":"CHALLA ASHWANTH REDDY, ALIGETI SAI KRISHNA, POREDDY VARUN TEJ REDDY, ADDITI NAIK, KODURU VAISHNAVI KMCE",
+        "Mentor(s)":"Dr Shilpa Gupta"
+    },
+    {
+        "S.No":37,
+        "Group Name":"G638",
+        "Project Title":"Health?LLM: Personalized Retrieval?Augmented Disease Prediction System",
+        "Roll Number":"23P81A6653, 24P85A6604, 23P81A6606, 23P81A6629, 23P81A0544",
+        "Student Name":"S SHASHANK, MADASU HARSHITH, ANKIT KUMAR YADAV, GUDIDEVUNI SATHWIK KRISHNA GOUD, NAMA KRUSHITH",
+        "Mentor(s)":"Vijay Nag"
+    },
+    {
+        "S.No":38,
+        "Group Name":"G639",
+        "Project Title":"MediVision \nMultimodal AI for Real-time Chest X-ray Diagnosis",
+        "Roll Number":"23P81A05A3, 23P81A6634, 23P81A6756, 23P81A6603, 23P81A6652",
+        "Student Name":"KOUKUNTLA SATYA CHAITANYA, K SHIVA SAI MANIKANTA, VANJA RISHI KUMAR REDDY, AMARAVADI PAVAN KUMAR, PUNNA SAI AVANISH",
+        "Mentor(s)":"Dr A Madhavi"
+    },
+    {
+        "S.No":39,
+        "Group Name":"G640",
+        "Project Title":"FinSage: Multi-aspect RAG for Financial Filings QA",
+        "Roll Number":"23P81A05B6, 23P81A6232, 23P81A6924, 23P81A6918, 23P81A6939, 23P81A6942",
+        "Student Name":"MOHAMMED SHOAIB ROSHAN, MUPPIDI YASHWANTH, GONGATI SUJAN REDDY, DHARMALA JOSHITH REDDY, MEDISETTY OMKAR, NAMAN DAGA",
+        "Mentor(s)":"Dr A Madhavi"
+    }
+]
