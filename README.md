@@ -52,4 +52,5 @@ Built with ❤️ by us, using a blend of **our effort + AI assistance**.
 ---
 
 ## 📸 Screenshots
-*(Add form screenshots and demo steps here)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7ba99c5-afd6-4169-a508-34d2ac01dd26" />
+
